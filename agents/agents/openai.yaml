@@ -1,0 +1,7 @@
+interface:
+  display_name: "Save Mall Comments"
+  short_description: "Generate, split, and save ChatGPT IP posters and IP boards."
+  default_prompt: "Use $save-mall-comments to upload IP/reference images to ChatGPT, generate IP poster or IP board candidates, split boards into horizontal or left-right image blocks, and save clean GPT-conversation PNGs locally."
+
+policy:
+  allow_implicit_invocation: true
